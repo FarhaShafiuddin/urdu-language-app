@@ -2,19 +2,19 @@
   {
     "scene": "house",
     "sentence": "This is a ___",
-    "answer": { "ur": "گھر", "roman": "Ghar" },
+    "answer": { "ur": "گھر", "roman": "Ghar", "en":"house" },
     "choices": ["گھر", "کتاب", "سیب", "پانی"]
   },
   {
     "scene": "book",
     "sentence": "I am reading a ___",
-    "answer": { "ur": "کتاب", "roman": "Kitaab" },
+    "answer": { "ur": "کتاب", "roman": "Kitaab", "en":"book" },
     "choices": ["گھر", "کتاب", "سیب", "پانی"]
   },
   {
     "scene": "apple",
     "sentence": "This is a red ___",
-    "answer": { "ur": "سیب", "roman": "Saib" },
+    "answer": { "ur": "سیب", "roman": "Saib". "en":"apple" },
     "choices": ["گھر", "کتاب", "سیب", "پانی"]
   },
   {
