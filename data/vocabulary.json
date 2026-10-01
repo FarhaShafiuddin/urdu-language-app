@@ -1,0 +1,224 @@
+[
+  {
+    "emoji": "🍎",
+    "translations": { "en": "Apple", "ur": "سیب" },
+    "roman": { "ur": "Saib" },
+    "audio": { "ur": "/audio/ur/apple.mp3" }
+  },
+  {
+    "emoji": "📖",
+    "translations": { "en": "Book", "ur": "کتاب" },
+    "roman": { "ur": "Kitaab" },
+    "audio": { "ur": "/audio/ur/book.mp3" }
+  },
+  {
+    "emoji": "🏠",
+    "translations": { "en": "House", "ur": "گھر" },
+    "roman": { "ur": "Ghar" },
+    "audio": { "ur": "/audio/ur/house.mp3" }
+  },
+  {
+  "emoji": "🐱",
+  "translations": { "en": "Cat", "ur": "بلی" },
+  "roman": { "ur": "Billi" },
+  "audio": { "ur": "/audio/ur/cat.mp3" }
+},
+{
+  "emoji": "👩",
+  "translations": { "en": "Mom", "ur":"امی" },
+  "roman": { "ur": "Ammi" },
+  "audio": { "ur": "/audio/ur/mom.mp3" }
+},
+{
+  "emoji": "💧",
+  "translations": { "en": "Water", "ur": "پانیی"},
+  "roman": { "ur": "Paani" },
+  "audio": { "ur": "/audio/ur/water.mp3" }
+},
+{
+  "emoji": "🦋",
+  "translations": { "en": "Butterfly", "ur": "تتلی" },
+  "roman": { "ur": "Titli" },
+  "audio": { "ur": "/audio/ur/butterfly.mp3" }
+},
+{
+  "emoji": "🎩",
+  "translations": { "en": "Hat", "ur": "ٹوپی" },
+  "roman": { "ur": "Topi" },
+  "audio": { "ur": "/audio/ur/hat.mp3" }
+},
+{
+  "emoji": "🍑",
+  "translations": { "en": "Fruit", "ur": "پھل" },
+  "roman": { "ur": "Phal" },
+  "audio": { "ur": "/audio/ur/fruit.mp3" }
+},
+{
+  "emoji": "✈️",
+  "translations": { "en": "Plane", "ur": "جہاز"},
+  "roman": { "ur": "Jahaaz" },
+  "audio": { "ur": "/audio/ur/plane.mp3" }
+},
+{
+  "emoji": "🌙",
+  "translations": { "en": "Moon", "ur": "چاند" },
+  "roman": { "ur": "Chaand" },
+  "audio": { "ur": "/audio/ur/moon.mp3" }
+},
+{
+  "emoji": "🍨",
+  "translations": { "en": "Sweets", "ur": "حلوہ" },
+  "roman": { "ur": "Halwa" },
+  "audio": { "ur": "/audio/ur/sweets.mp3" }
+},
+{
+  "emoji": "🐇",
+  "translations": { "en": "Rabbit", "ur": "خرگوش" },
+  "roman": { "ur": "Khargosh" },
+  "audio": { "ur": "/audio/ur/rabbit.mp3" }
+},
+{
+  "emoji": "🥛",
+  "translations": { "en": "Milk", "ur": "دودھ" },
+  "roman": { "ur": "Doodh" },
+  "audio": { "ur": "/audio/ur/milk.mp3" }
+},
+{
+  "emoji": "📦",
+  "translations": { "en": "Box", "ur": "ڈبہ" },
+  "roman": { "ur": "Dabba" },
+  "audio": { "ur": "/audio/ur/box.mp3" }
+},
+{
+  "emoji": "🧠",
+  "translations": { "en": "Smart", "ur": "ذہین" },
+  "roman": { "ur": "Zaheen" },
+  "audio": { "ur": "/audio/ur/smart.mp3" }
+},
+{
+  "emoji": "🫓",
+  "translations": { "en": "Bread", "ur": "روٹی" },
+  "roman": { "ur": "Roti" },
+  "audio": { "ur": "/audio/ur/bread.mp3" }
+},
+{
+  "emoji": "🌍",
+  "translations": { "en": "Earth", "ur": "زمین" },
+  "roman": { "ur": "Zameen" },
+  "audio": { "ur": "/audio/ur/earth.mp3" }
+},
+{
+  "emoji": "🌨️",
+  "translations": { "en": "Hail", "ur": "ژالہ" },
+  "roman": { "ur": "Zhaala" },
+  "audio": { "ur": "/audio/ur/hail.mp3" }
+},
+{
+  "emoji": "🍎",
+  "translations": { "en": "Apple", "ur": "سیب" },
+  "roman": { "ur": "Saib" },
+  "audio": { "ur": "/audio/ur/apple.mp3" }
+},
+{
+  "emoji": "🦁",
+  "translations": { "en": "Lion", "ur": "شیر" },
+  "roman": { "ur": "Sher" },
+  "audio": { "ur": "/audio/ur/lion.mp3" }
+},
+{
+  "emoji": "🌅",
+  "translations": { "en": "Morning", "ur": "صبح" },
+  "roman": { "ur": "Subah" },
+  "audio": { "ur": "/audio/ur/morning.mp3" }
+},
+{
+  "emoji": "✅",
+  "translations": { "en": "Sure!", "ur": "ضرور!" },
+  "roman": { "ur": "Zaroor!" },
+  "audio": { "ur": "/audio/ur/sure.mp3" }
+},
+{
+  "emoji": "🦜",
+  "translations": { "en": "Parrot", "ur": "طوطا" },
+  "roman": { "ur": "Toata" },
+  "audio": { "ur": "/audio/ur/parrot.mp3" }
+},
+{
+  "emoji": "🍽️",
+  "translations": { "en": "Dishes", "ur": "ظروف" },
+  "roman": { "ur": "Zuroof" },
+  "audio": { "ur": "/audio/ur/dishes.mp3" }
+},
+{
+  "emoji": "👓",
+  "translations": { "en": "Eyeglasses", "ur": "عینک" },
+  "roman": { "ur": "Aynak" },
+  "audio": { "ur": "/audio/ur/eyeglasses.mp3" }
+},
+{
+  "emoji": "🎈",
+  "translations": { "en": "Balloon", "ur": "غبارہ" },
+  "roman": { "ur": "Ghubara" },
+  "audio": { "ur": "/audio/ur/balloon.mp3" }
+},
+{
+  "emoji": "⛲",
+  "translations": { "en": "Fountain", "ur": "فوارہ" },
+  "roman": { "ur": "Fawwara" },
+  "audio": { "ur": "/audio/ur/fountain.mp3" }
+},
+{
+  "emoji": "🖊️",
+  "translations": { "en": "Pen", "ur": "قلم" },
+  "roman": { "ur": "Qalam" },
+  "audio": { "ur": "/audio/ur/pen.mp3" }
+},
+{
+  "emoji": "📖",
+  "translations": { "en": "Book", "ur": "کتاب" },
+  "roman": { "ur": "Kitaab" },
+  "audio": { "ur": "/audio/ur/book.mp3" }
+},
+{
+  "emoji": "🏠",
+  "translations": { "en": "House", "ur": "گھر" },
+  "roman": { "ur": "Ghar" },
+  "audio": { "ur": "/audio/ur/house.mp3" }
+},
+{
+  "emoji": "👧",
+  "translations": { "en": "Girl", "ur": "لڑکی" },
+  "roman": { "ur": "Larki" },
+  "audio": { "ur": "/audio/ur/girl.mp3" }
+},
+{
+  "emoji": "🐟",
+  "translations": { "en": "Fish", "ur": "مچھلی" },
+  "roman": { "ur": "Machli" },
+  "audio": { "ur": "/audio/ur/fish.mp3" }
+},
+{
+  "emoji": "👵",
+  "translations": { "en": "Grandma", "ur": "نانی" },
+  "roman": { "ur": "Naani" },
+  "audio": { "ur": "/audio/ur/grandma.mp3" }
+},
+{
+  "emoji": "⏰",
+  "translations": { "en": "Time", "ur": "وقت" },
+  "roman": { "ur": "Waqt" },
+  "audio": { "ur": "/audio/ur/time.mp3" }
+},
+{
+  "emoji": "🐘",
+  "translations": { "en": "Elephant", "ur": "ہاتھی" },
+  "roman": { "ur": "Haathi" },
+  "audio": { "ur": "/audio/ur/elephant.mp3" }
+},
+{
+  "emoji": "👬",
+  "translations": { "en": "Friend", "ur": "یار" },
+  "roman": { "ur": "Yaar" },
+  "audio": { "ur": "/audio/ur/friend.mp3" }
+}
+]

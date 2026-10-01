@@ -1,0 +1,27 @@
+[
+  {
+    "scene": "house",
+    "sentence": "This is a ___",
+    "answer": { "ur": "گھر", "roman": "Ghar" },
+    "choices": ["گھر", "کتاب", "سیب", "پانی"]
+  },
+  {
+    "scene": "book",
+    "sentence": "I am reading a ___",
+    "answer": { "ur": "کتاب", "roman": "Kitaab" },
+    "choices": ["گھر", "کتاب", "سیب", "پانی"]
+  },
+  {
+    "scene": "apple",
+    "sentence": "This is a red ___",
+    "answer": { "ur": "سیب", "roman": "Saib" },
+    "choices": ["گھر", "کتاب", "سیب", "پانی"]
+  },
+  {
+    "scene": "water",
+    "sentence": "When I am thirsty I drink ___",
+    "answer": { "ur": "پانی", "roman": "Paani", "en": "water" },
+    "choices": ["گھر", "کتاب", "سیب", "پانی"]
+  }
+
+]

@@ -1,0 +1,38 @@
+html, body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+.uuu{
+    transform: rotate(-90deg);
+}
+.progressBar,.progressBar li{
+    list-style: none;
+}
+.progressBar{
+    overflow: hidden;
+    margin:0;
+    padding:0;
+    display: flex;
+}
+/*li*/
+.pro_item{
+    width:100%;
+    background:red;
+    /*min-height:20px;*/
+    height:100%;
+    margin-right:1px;
+    float:left;
+    background: linear-gradient(#fff, #00B8F6 40%, #00B8F6 60%,#fff);
+    transition:all 0.1s;
+    border-radius: 2px;
+}
+.prese{
+    width: 300px;
+    margin: 0 auto;
+    font-size: 15px;
+    width: 300px;margin: 0 auto;
+    color: white;
+}
+
+
