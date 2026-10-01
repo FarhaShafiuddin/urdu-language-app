@@ -7,7 +7,7 @@ type StoryScene = {
   answer: {
     ur: string;
     roman: string;
-    en: string;
+    en?: string;
   };
   choices: string[];
   scene: "house" | "book" | "apple" | "water";
