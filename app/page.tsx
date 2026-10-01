@@ -6,7 +6,7 @@ import StorybookLesson from "../components/StorybookLesson";
 import AlphabetGrid from "../components/AlphabetGrid";
 import StoryPage1 from "../components/StoryPage1";
 import vocab from "../data/vocabulary.json";
-import stories from "../data/stories.json";
+import storiesData from "../data/stories.json";
 import alphabet from "../data/alphabet.json";
 
 type Mode = "flashcard" | "storybook" | "alphabet";
@@ -99,7 +99,7 @@ export default function Home() {
 
         {mode === "storybook" && storyPage === 1 && (
           <StorybookLesson
-            stories={stories}
+            stories={storiesData as any}
             title="Around the House"
           />
         )}
