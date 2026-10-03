@@ -14,7 +14,7 @@
   {
     "scene": "apple",
     "sentence": "This is a red ___",
-    "answer": { "ur": "سیب", "roman": "Saib". "en":"apple" },
+    "answer": { "ur": "سیب", "roman": "Saib", "en":"apple" },
     "choices": ["گھر", "کتاب", "سیب", "پانی"]
   },
   {
